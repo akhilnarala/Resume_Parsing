@@ -1,0 +1,23 @@
+Personal Information:
+
+Name:Narala Akhil Reddy
+Date of Birth: 21-12-1997
+Email id:reddy.akhil65@gmail.com 
+Mobile number:+91 9999988888
+Address for Communication:Hyderabad, Secunderabad.
+
+EDUCATION
+
+Bachelor of Technology (B.Tech), CSE (2015 - 2019) VNR Vignana Jyothi Institute of Engineering and Technology
+ CGPA : 8.60/10
+XII (Senior Secondary),Year of Completion: 2015 BIE-TELANGANA Board (Narayana Junior College) CGPA : 9.59/10
+X (Secondary) Year of Completion: 2013 SSC Board (Sri Chaitanya Techno School) CGPA : 9.20/10
+
+SKILLS Java Intermediate
+
+C Programming Intermediate
+C++ Programming Intermediate
+Database Management System (DBMS) Intermediate
+MS-Office Intermediate
+SQL Intermediate
+Python Beginner
